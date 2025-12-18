@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-12-12T13:41:24 IST" name="Suite" finished-at="2025-12-12T13:41:29 IST" duration-ms="5386">
+  <suite started-at="2025-12-13T14:22:13 IST" name="Suite" finished-at="2025-12-13T14:22:19 IST" duration-ms="5935">
     <groups>
     </groups>
-    <test started-at="2025-12-12T13:41:24 IST" name="Test" finished-at="2025-12-12T13:41:29 IST" duration-ms="5386">
+    <test started-at="2025-12-13T14:22:13 IST" name="Test" finished-at="2025-12-13T14:22:19 IST" duration-ms="5935">
       <class name="SeleniumGrid_Maven.GridProject.Testing">
-        <test-method signature="HomePageCheck2()[pri:0, instance:SeleniumGrid_Maven.GridProject.Testing@7eac9008]" started-at="2025-12-12T13:41:24 IST" name="HomePageCheck2" finished-at="2025-12-12T13:41:29 IST" duration-ms="5329" status="PASS">
+        <test-method signature="HomePageCheck2()[pri:0, instance:SeleniumGrid_Maven.GridProject.Testing@7eac9008]" started-at="2025-12-13T14:22:13 IST" name="HomePageCheck2" finished-at="2025-12-13T14:22:19 IST" duration-ms="5893" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- HomePageCheck2 -->
       </class> <!-- SeleniumGrid_Maven.GridProject.Testing -->
       <class name="SeleniumGrid_Maven.GridProject.GoogleTest">
-        <test-method signature="HomePageCheck()[pri:0, instance:SeleniumGrid_Maven.GridProject.GoogleTest@1e800aaa]" started-at="2025-12-12T13:41:24 IST" name="HomePageCheck" finished-at="2025-12-12T13:41:26 IST" duration-ms="2521" status="PASS">
+        <test-method signature="HomePageCheck()[pri:0, instance:SeleniumGrid_Maven.GridProject.GoogleTest@1e800aaa]" started-at="2025-12-13T14:22:13 IST" name="HomePageCheck" finished-at="2025-12-13T14:22:17 IST" duration-ms="3528" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- HomePageCheck -->
